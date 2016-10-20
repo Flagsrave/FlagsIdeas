@@ -21,5 +21,10 @@ Be distinctive or be related. Avoid duplicating other flags, but use similaritie
 
 ## Callum
 
+My first flag I decided to look at the North Korea flag as they are having some issues over there at the moment and wanted to see if I could reflect the kind of society they have within there flag. Below is a screenshot of a symbol I found which means Safety And Secruity
 
+![alt text](Photos/screenshot.png)
 
+I feel like with the leader they have he keeps the country safe and guarded from outside world. Because of the way the country is lead I changed the flag from one symbol and replaced it with this symbol.
+
+![alt text](Photos/callumflag1.jpg)
