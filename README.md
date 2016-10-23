@@ -48,4 +48,4 @@ I choose the flag of Canada. I have added a few silhouette images of some of the
 
 #### And below is the flag
 
-![Flag 3](Photos/callumflag3.jpg)
+![Flag 3](Photos/callumflag2.jpg)
