@@ -31,21 +31,26 @@ I choose the flag of Canada. I have added a few silhouette images of some of the
 
 #### I feel like with the leader they have he keeps the country safe and guarded from outside world. Because of the way the country is lead I changed the flag from one symbol and replaced it with this symbol.
 
-![alt text](Photos/callumflag1.jpg)
+![Flag 1](Photos/callumflag1.jpg)
 
 
 #### My next design I had inspiration of how tight the border is into North Korea and still kept the flag simple but managed to create something that represents the high secruity. This is an image of the border;
 
-![alt text](Photos/border.jpg)
+![Border](Photos/border.jpg)
 
 #### And below is the flag I designed
 
-![alt text](Photos/callumflag3.jpg)
+![Flag 3](Photos/callumflag3.jpg)
 
 #### My next flag took inspiration from how uniform and strict the leader and the law enforcment officers are. Below is a picture of the Leader or NK and some secruity officers.
 
-![alt text](Photos/order.jpg)
+![Order](Photos/order.jpg)
 
 #### And below is the flag
 
 ![Flag 3](Photos/callumflag2.jpg)
+
+#### This is my 4th flag and it is one that I am proud of. North Korea would never use a flag like this at is it rather controversial.
+
+![Flag 4](Photos/callumflag4.jpg)
+
