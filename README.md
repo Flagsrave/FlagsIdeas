@@ -22,14 +22,18 @@ I choose the flag of Canada. I have added a few silhouette images of some of the
 ![alt test] (Photos/Canada flag.jpg)
 
 
-## Janet
 
 ## Callum
 
-My first flag I decided to look at the North Korea flag as they are having some issues over there at the moment and wanted to see if I could reflect the kind of society they have within there flag. Below is a screenshot of a symbol I found which means Safety And Secruity
+#### My first flag I decided to look at the North Korea flag as they are having some issues over there at the moment and wanted to see if I could reflect the kind of society they have within there flag. Below is a screenshot of a symbol I found which means Safety And Secruity
 
 ![alt text](Photos/screenshot.png)
 
-I feel like with the leader they have he keeps the country safe and guarded from outside world. Because of the way the country is lead I changed the flag from one symbol and replaced it with this symbol.
+#### I feel like with the leader they have he keeps the country safe and guarded from outside world. Because of the way the country is lead I changed the flag from one symbol and replaced it with this symbol.
 
 ![alt text](Photos/callumflag1.jpg)
+
+
+#### My next design I had inspiration of how tight the border is into North Korea and still kept the flag simple but managed to create something that represents the high secruity. This is an image of the border;
+
+![alt text](Photos/border.jpg)
