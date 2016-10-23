@@ -50,7 +50,7 @@ I choose the flag of Canada. I have added a few silhouette images of some of the
 
 ![Flag 3](Photos/callumflag2.jpg)
 
-#### This is my 4th flag and it is one that I am proud of. North Korea would never use a flag like this at is it rather controversial.
+#### This is my 4th flag and it is one that I am proud of. North Korea would never use a flag like this at is it rather controversial. It shows that North Korea is seperated from the world and enclosed and no one gets out or in without permission. They dont have much connection to the world and it shows the symbol of the star between essentially two walls.
 
 ![Flag 4](Photos/callumflag4.jpg)
 
