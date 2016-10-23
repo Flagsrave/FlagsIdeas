@@ -1,10 +1,5 @@
 # Union Hack :gb:
 
-* What existing flags have you mashed up? Let's see.
-* What (real or imaginary) places could you design flag(s) for? Let's see your sketches.
-* How are you going to present your ideas, creative process and experiments next week (formative presentations)?
-* What's your team GitHub repository? You may want to create an organisation (a GitHub group) for that..
-
 ### MAKE YOUR OWN FLAG
 
 Keep it simple. The flag should be so simple that a child can draw it from memory.
