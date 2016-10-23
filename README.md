@@ -17,6 +17,11 @@ Be distinctive or be related. Avoid duplicating other flags, but use similaritie
 
 ## Payman
 
+I choose the flag of Canada. I have added a few silhouette images of some of the things that Canada is famous for which include ice hockey, moose, totem pole, bear and a mountain which is called the Canadaian rockies. By adding the mountains it has slighty changed the colour of the flag with parts being darker red. 
+
+![alt test] (Photos/Canada flag.jpg)
+
+
 ## Janet
 
 ## Callum
