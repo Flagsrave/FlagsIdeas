@@ -37,3 +37,7 @@ I choose the flag of Canada. I have added a few silhouette images of some of the
 #### My next design I had inspiration of how tight the border is into North Korea and still kept the flag simple but managed to create something that represents the high secruity. This is an image of the border;
 
 ![alt text](Photos/border.jpg)
+
+#### And below is the flag I designed
+
+![alt text](Photos/callumflag3.jpg)
