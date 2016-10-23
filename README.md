@@ -41,3 +41,11 @@ I choose the flag of Canada. I have added a few silhouette images of some of the
 #### And below is the flag I designed
 
 ![alt text](Photos/callumflag3.jpg)
+
+#### My next flag took inspiration from how uniform and strict the leader and the law enforcment officers are. Below is a picture of the Leader or NK and some secruity officers.
+
+![alt text](Photos/order.jpg)
+
+#### And below is the flag
+
+![Flag 3](Photos/callumflag3.jpg)
