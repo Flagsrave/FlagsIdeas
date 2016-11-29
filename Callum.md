@@ -35,5 +35,6 @@ This is my 4th flag and it is one that I am proud of. North Korea would never us
 ## My Own Flag
 
 This is the flag I designed for my own country where designers live. I chose the light blue colour as it is easy on the eye and evokes a happy emotion which is what I want to show. In terms of the shapes and design I wanted to show that no matter who you are where and wherever you are going everyone will get along as everyone is designers. The top and bottom of the flag represent roads and the middle represents a community circle where everyone gets along.
+
 ![Flag 5](Photos/country.jpg)
 
