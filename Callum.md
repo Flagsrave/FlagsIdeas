@@ -38,3 +38,8 @@ This is the flag I designed for my own country where designers live. I chose the
 
 ![Flag 5](Photos/country.jpg)
 
+### Below is a mockup of what the flag would look like
+
+![Flag 5](Photos/mock.jpg)
+
+
